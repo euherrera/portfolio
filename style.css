@@ -10,7 +10,7 @@
 
 .mainHeader {
     height: 600px;
-    background: rgb(20 42 81);
+    background: rgb(11 11 12);
 /*    background-image: linear-gradient(90deg, #ff0000 0%, rgb(0 0 0) 35%, rgb(249 0 0) 100%);*/
 }
 
@@ -41,7 +41,7 @@
 /*    font-family: 'Red Rose', cursive;*/
     text-transform: uppercase;
     font-size:6em;
-    color: #dcdc66;
+    color: #ff1174;
 }
 
 .slogan2{
@@ -60,7 +60,7 @@
     left: 50%;
     text-transform: uppercase;
     font-size: 2em;
-    color: aquamarine;
+    color: #f4f2d1;
     font-family: 'Ubuntu', sans-serif;
 }
 .icon{
@@ -104,7 +104,7 @@
 .holder {
     width: 80%;
     margin: 0 auto;
-    background: rgb(24 43 78 / 90%);
+    background: rgb(11 11 12);
     height: 420px;
     position: relative;
     top: 80px;
@@ -1945,7 +1945,7 @@
 }
 
 .bg-light {
-    background-color: rgb(24 43 78 / 90%) !important;
+    background-color: rgb(11 11 12) !important;
     position:fixed;
     width:100%;
     z-index:999;

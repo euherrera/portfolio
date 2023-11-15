@@ -1909,7 +1909,7 @@
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li {
 	color: #666;
 	width: 100%;
-    padding-top: 7px;
+    padding-top: 2px;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.credits .timeline-panel-ul li a.importo  {
   color: rgb(24 43 78 / 90%);

@@ -1849,7 +1849,7 @@
   position: relative;
   -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
-  height:250px;
+  height:200px;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel .timeline-panel-ul {
   list-style: none;
@@ -1875,6 +1875,10 @@
 #timeline .timeline-movement .timeline-item .timeline-panel.credits .timeline-panel-ul li {
   color: #666;
   width: 100%;
+}
+
+.causale {
+  font-size: .9em;
 }
 .clear {
 	clear:both;

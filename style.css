@@ -1893,7 +1893,7 @@
 	float: right;
 	width: 70%;
 	height: 130px;
-	padding: 0 0 0 12px;
+	padding: 0 0 0 32px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;

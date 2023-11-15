@@ -1877,9 +1877,6 @@
   width: 100%;
 }
 
-.causale {
-  font-size: .9em;
-}
 .clear {
 	clear:both;
 }
@@ -1897,6 +1894,10 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+}
+
+#timeline .timeline-movement .timeline-item .timeline-panel.debits  .timeline-panel-ul .righting-wrap .causale{
+  font-size: .9em;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li.img-wraping {
 	width: 100%;

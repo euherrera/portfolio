@@ -1923,7 +1923,7 @@
   text-align: left;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul a.importo {
-  color: #ff0019;
+  color: rgb(24 43 78 / 90%);
   font-size: 1.3em;
   font-weight: 600;
 }

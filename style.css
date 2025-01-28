@@ -40,7 +40,7 @@
 .slogan1{
 /*    font-family: 'Red Rose', cursive;*/
     text-transform: uppercase;
-    font-size:6em;
+    font-size:7em;
     color: #ff1174;
 }
 
@@ -48,7 +48,7 @@
     text-transform: uppercase;
     font-family: 'Nunito Sans', sans-serif;
     position: absolute;
-    top: 100px;
+    top: 120px;
     font-size: 5em;
     color: grey;
     height:50px;
@@ -56,8 +56,8 @@
 
 .slogan3{
    position: absolute;
-    top: 160%;
-    left: 50%;
+    top: 150%;
+    left: 1%;
     text-transform: uppercase;
     font-size: 2em;
     color: #f4f2d1;
@@ -68,7 +68,7 @@
     font-size: 5em;
     position: absolute;
     top: 30%;
-    right: 98%;
+    right: 100%;
     animation-name: cursor;
     animation-duration: .5s;
     animation-timing-function: ease-out;

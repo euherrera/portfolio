@@ -1897,7 +1897,7 @@
 }
 
 #timeline .timeline-movement .timeline-item .timeline-panel.debits  .timeline-panel-ul .righting-wrap .causale{
-  font-size: .9em;
+  font-size: .8em;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li.img-wraping {
 	width: 100%;
@@ -1905,6 +1905,11 @@
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li.img-wraping a img, #timeline .timeline-movement .timeline-item .timeline-panel.credits .timeline-panel-ul li.img-wraping a img {
     
     height: 130px;
+}
+
+#timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li.img-wraping a img, #timeline .timeline-movement .timeline-item .timeline-panel.credits .timeline-panel-ul li.img-wraping a .img-responsive {
+    
+  height: 100px;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li {
 	color: #666;

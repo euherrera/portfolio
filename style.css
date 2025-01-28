@@ -1990,17 +1990,17 @@
 
 @media all and (max-width:767px) {
     .slogan1{
-        font-size:2em;
+        font-size:4em;
     }
     .slogan2{
         font-size:1.5em;
-        top:50px;
+        top:80px;
     }
     .slogan3{
         
          left: 10%;
         font-size:1em;
-        top: 185%;
+        top: 145%;
         left:0;
     }
     .icon{

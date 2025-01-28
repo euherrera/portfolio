@@ -1764,7 +1764,7 @@
     position: absolute;
     content: " ";
     width: 2px;
-    background-color: rgb(147 147 173);
+    background-color: rgb(207 207 207);
     left: 50%;
     margin-left: -1.5px;
 }
@@ -1785,7 +1785,6 @@
 	background-color: #fff;
 	z-index: 6;
 	border-radius: 50%;
-	border: 2px solid #ff1174;
 }
 #timeline .timeline-badge span.timeline-balloon-date-day {
   font-size: 1.4em;
@@ -1815,14 +1814,19 @@
 	font-size: 1.7em;
 	top: -16px;
 	margin-left: -60px;
-	border: 2px solid rgba(25,25,62,1);
 }
 #timeline .timeline-badge.timeline-future-movement p {
-	color:rgb(24 43 78 / 90%);
-	position: absolute;
-	top: 40px;
-	left: 25px;
+  color: rgb(25 26 28 / 90%);
+  position: absolute;
+  top: 40px;
+  left: 0px;
+  font-size: 2em;
 }
+.text-center {
+  text-align: center !important;
+  font-family: tahoma;
+}
+
 #timeline .timeline-badge.timeline-future-movement a span {
   color: #4997cd;
   font-size: .9em;
@@ -1845,11 +1849,11 @@
   border-radius: 3px;
   background-color: #FFFFFF;
   color: #666;
-  padding: 10px;
+  padding: 10px 10px 50px 10px;
   position: relative;
   -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
-  height:220px;
+  
 }
 #timeline .timeline-movement .timeline-item .timeline-panel .timeline-panel-ul {
   list-style: none;
@@ -2036,7 +2040,7 @@
     }
     
     #timeline .timeline-movement .timeline-item .timeline-panel {
-        height: 400px;
+        height: 500px;
     }
     
     .mainHeader{
